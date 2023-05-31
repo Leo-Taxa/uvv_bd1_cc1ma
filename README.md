@@ -17,13 +17,13 @@ Para progredir, nós tivemos que:
 
 Tudo foi feito e testado.
 
-PARTIAL PSET 1 - PSET are Problem Sets, usually hard to do and challenging. This PSET is part of the discipline Databases Design and Development 1 lectured by professor Abrantes Araújo at the University of Vila Velha (UVV), in the state of Espírito Santo.
+# PARTIAL PSET 1 - PSET are Problem Sets, usually hard to do and challenging. This PSET is part of the discipline Databases Design and Development 1 lectured by professor Abrantes Araújo at the University of Vila Velha (UVV), in the state of Espírito Santo.
 
 + Student: Leonnardo Taxa 
 + Professor: Abrantes Araujo 
 + Monitor: Suellen Miranda Amorim
 
-##This this is my resolution as a student of this discipline for the problems proposed.
+## This this is my resolution as a student of this discipline for the problems proposed.
 
 In this project we had to answer questions about all parts of the project, including questions about the database, git and github, the tables and its relationships and other related questions and topics.
 
